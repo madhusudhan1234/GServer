@@ -1,34 +1,46 @@
 {
-	"customers": [
-      {
-        "id": "1",
-        "name": "Ashok Adhikari",
-        "email": "ashok.adhikari92@gmail.com",
-        "age": 25
-      },
-      {
-        "id": "2",
-        "name": "Madhu Sudhan Subedi",
-        "email": "madhusudhan@gmail.com",
-        "age": 23
-      },
-      {
-        "id": "3",
-        "name": "Ramesh Pandey",
-        "email": "rameshpandey@gmail.com",
-        "age": 21
-      },
-      {
-        "id": "4",
-        "name": "Niraj Adhikari",
-        "email": "nirajadhikari@gmail.com",
-        "age": 23
-      },
-      {
-        "id": "5",
-        "name": "Anil Adhikari",
-        "email": "aniladhikari@gmail.com",
-        "age": 20
-      }
-    ]
+  "customers": [
+    {
+      "id": "1",
+      "name": "Ashok Adhikari",
+      "email": "ashokadhikari@gmail.com",
+      "age": 25
+    },
+    {
+      "id": "2",
+      "name": "Madhu Sudhan Subedi",
+      "email": "madhusudhan@gmail.com",
+      "age": 23
+    },
+    {
+      "id": "3",
+      "name": "Ramesh Pandey",
+      "email": "rameshpandey@gmail.com",
+      "age": 21
+    },
+    {
+      "id": "4",
+      "name": "Niraj Adhikari",
+      "email": "nirajadhikari@gmail.com",
+      "age": 23
+    },
+    {
+      "id": "5",
+      "name": "Anil Adhikari",
+      "email": "aniladhikari@gmail.com",
+      "age": 20
+    },
+    {
+      "name": "Santosh Dhungana",
+      "email": "santoshdhungana@gmail.com",
+      "age": 25,
+      "id": "wJUPhcF"
+    },
+    {
+      "name": "Rajesh Bhattari",
+      "email": "rajeshbhattari@gmail.com",
+      "age": 32,
+      "id": "NiFm8LC"
+    }
+  ]
 }
